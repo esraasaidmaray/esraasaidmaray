@@ -23,9 +23,7 @@
 - 🧭 **Map Routing with Dijkstra’s Algorithm** – Implemented a C++ routing system using Dijkstra’s algorithm to find the shortest path between cities. Used adjacency lists, priority queues, and efficient graph traversal strategies.
   
 - 🧱 **Home Decor Fantasy (Data Structures Project)** – Developed a creative C++ project simulating a fantasy home decoration system. Applied concepts like linked lists, stacks, queues, and tree structures to manage user interactions and items.
-  
-- 📊 **Loan Approval Prediction** – Created a machine learning pipeline to predict loan approval status using logistic regression and decision trees. Handled data cleaning, feature selection, and model evaluation.
-  
+    
 - 💬 **Sentiment Analysis with NLP** – Designed a basic text classification project using TF-IDF and Naive Bayes to analyze sentiments in product reviews and predict positive/negative feedback.
 
 
@@ -62,9 +60,6 @@
 
 - 🧱 [Home Decor Fantasy – DS Project](https://github.com/esraasaidmaray/Home-Decor-Fantasy)  
   A creative C++ simulation game applying stacks, queues, linked lists, and trees to build a user-controlled home decor experience.
-
-- 📊 [Loan Prediction ML Model](https://github.com/esraasaidmaray/Loan-Prediction)  
-  Machine learning model predicting loan approval using logistic regression and decision trees. Focused on preprocessing and accuracy optimization.
 
 - 💬 [Sentiment Analysis with NLP](https://github.com/esraasaidmaray/NLP-Sentiment-Analysis)  
   Built a text classification system using Naive Bayes and TF-IDF to detect sentiments in customer reviews.
