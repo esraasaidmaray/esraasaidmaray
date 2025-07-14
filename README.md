@@ -49,7 +49,7 @@
 ---
 ### 📚 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraasaidmaray&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraasaidmaray&layout=compact&theme=tokyonight)
 ---
 
 ### 📌 Pinned Projects (Check them out!)
