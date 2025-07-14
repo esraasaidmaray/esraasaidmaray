@@ -51,11 +51,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
----
-### 📚 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraasaidmaray&layout=compact&theme=tokyonight)
----
+--------------------------
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/esraasaiedkhalil/)
