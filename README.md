@@ -47,6 +47,10 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter)
 
 ---
+### 📚 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esraasaidmaray&layout=compact&theme=react&hide_border=true)
+---
 
 ### 📌 Pinned Projects (Check them out!)
 - 🔍 [Fraud Detection with Machine Learning](https://github.com/esraasaidmaray/Fraud-Detection-for-financial-transaction-project)  
