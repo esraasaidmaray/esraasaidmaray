@@ -74,7 +74,7 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/esraasaiedkhalil/)
-- 📧 Email: your@email.com
+- 📧 Email: esraasaidmaray@gmail.com
 - 📂 [Resume / CV (optional)](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
 
 ---
