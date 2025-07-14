@@ -49,19 +49,19 @@
 ---
 
 ### 📌 Pinned Projects (Check them out!)
-- 🔍 [Fraud Detection with Machine Learning](https://github.com/esraasaidmaray/FRAUD-DETECTION)  
+- 🔍 [Fraud Detection with Machine Learning](https://github.com/esraasaidmaray/Fraud-Detection-for-financial-transaction-project)  
   Built a supervised ML pipeline to identify fraudulent transactions using real-world financial data. Applied feature engineering, handled data imbalance, and evaluated multiple classifiers.
 
-- 🌍 [Kiva Loans Data Analysis](https://github.com/esraasaidmaray/KIVA-LOAN-DATA-ANALYSIS)  
+- 🌍 [Kiva Loans Data Analysis](https://github.com/esraasaidmaray/Kiva-Loans-Analysis-and-Forecasting-Project)  
   Performed EDA and visualization on international loan data to understand sectoral trends, gender equity, and repayment intervals.
 
-- 🧭 [Map Routing with Dijkstra’s Algorithm](https://github.com/esraasaidmaray/Map-routing-Dijkstra)  
+- 🧭 [Map Routing with Dijkstra’s Algorithm]  
   Implemented Dijkstra’s algorithm in C++ to compute shortest paths across a simulated map using efficient data structures.
 
-- 🧱 [Home Decor Fantasy – DS Project](https://github.com/esraasaidmaray/Home-Decor-Fantasy)  
+- 🧱 [Home Decor Fantasy – DS Project](https://github.com/esraasaidmaray/Home-Decor_Fantasy_DS-Project)  
   A creative C++ simulation game applying stacks, queues, linked lists, and trees to build a user-controlled home decor experience.
 
-- 💬 [Sentiment Analysis with NLP](https://github.com/esraasaidmaray/NLP-Sentiment-Analysis)  
+- 💬 [Sentiment Analysis with NLP](https://github.com/esraasaidmaray/Sentiment_Analysis_AI-Project)  
   Built a text classification system using Naive Bayes and TF-IDF to detect sentiments in customer reviews.
 
 
