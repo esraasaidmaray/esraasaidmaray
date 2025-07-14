@@ -85,4 +85,4 @@
 ---
 
 ### ☁️ Quote I Live By:
-> *"Strive not to be a success, but rather to be of value."* – Albert Einstein
+> *"The best preparation for tomorrow is doing your best today."* – H. Jackson Brown, Jr
