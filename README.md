@@ -54,8 +54,11 @@
 --------------------------
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/esraasaiedkhalil/)
-- 📧 Email: esraasaidmaray@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esraasaiedkhalil)
+
+[![Gmail](https://img.shields.io/badge/Email-esraasaidmaray@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esraasaidmaray@gmail.com)
+
 [![Resume](https://img.shields.io/badge/CV-View-blue)](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
 
 
