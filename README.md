@@ -59,7 +59,7 @@
 
 [![Gmail](https://img.shields.io/badge/Email-esraasaidmaray@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esraasaidmaray@gmail.com)
 
-[![Resume](https://img.shields.io/badge/CV-View-blue)](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/CV-View%20Resume-brightgreen?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
 
 
 ---
