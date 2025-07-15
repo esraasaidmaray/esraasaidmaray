@@ -1,5 +1,5 @@
-<h2 align="center">Hi there 👋, I'm Esraa Saied Khalil</h2>
-<p align="center">🎓  Senior CS Student at Ain Shams University | 🤖 AI & Data Science Enthusiast | 👩‍💻 Open to Internships</p>
+<h2 align="center">👋 Hello! I'm Esraa Saied Khalil</h2>
+<p align="center"><strong>🎓 Senior CS Student at Ain Shams University| 🤖 AI & Data Science Enthusiast | 💼 Microsoft ML Intern | 👩‍💻 Open to Opportunities</strong></p>
 
 ---
 
@@ -56,7 +56,8 @@
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/esraasaiedkhalil/)
 - 📧 Email: esraasaidmaray@gmail.com
-- 📂 [ CV ](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/CV-View-blue)](https://drive.google.com/file/d/1fXOAhp6aH0lG284qb3glrKguQtGtnxVc/view?usp=sharing)
+
 
 ---
 
